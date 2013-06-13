@@ -1,0 +1,10 @@
+/**
+ * Example styles
+ */
+
+.text-editor-button {
+	border: 1px solid black;
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
